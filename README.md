@@ -51,9 +51,9 @@ _All code reproduces the experiments and plots from our IEEE paper._
 
 ## 👥 Authors & Acknowledgments
 
-* **Aditi Garg** — *([aditigarg@dtu.ac.in](mailto:aditigarg@dtu.ac.in))*
-* **Arsh Sharan** — *([arshsharan@dtu.ac.in](mailto:arshsharan@dtu.ac.in))*
-* **Aryan Garg** — *([aryangarg@dtu.ac.in](mailto:aryangarg@dtu.ac.in))*
+* **Aditi Garg** — *([aditigarg@dtu.ac.in](mailto:aditigarg_ee20a12_52@dtu.ac.in))*
+* **Arsh Sharan** — *([arshsharan@dtu.ac.in](mailto:arshsharan_ee20a13_04@dtu.ac.in))*
+* **Aryan Garg** — *([aryangarg@dtu.ac.in](mailto:aryangarg_ee20a13_07@dtu.ac.in))*
 * **Krishna Dutt** — *([krishna@dtu.ac.in](mailto:krishna@dtu.ac.in))*
 * **Anshul Arora** — *([anshularora@dtu.ac.in](mailto:anshularora@dtu.ac.in))*
 
